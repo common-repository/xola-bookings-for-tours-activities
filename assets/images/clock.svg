@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="wordpress-plugin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-48.000000, -11.000000)" fill="#333743">
+            <path d="M48,19.004 C48,14.584 51.583,11 56.004,11 C60.424,11 64.008,14.584 64.008,19.004 C64.008,23.425 60.424,27.008 56.004,27.008 C51.583,27.008 48,23.425 48,19.004 L48,19.004 Z M59.838,21.56 C60.144,21.1 60.02,20.479 59.56,20.173 L57.004,18.469 L57.004,14.002 C57.004,13.449 56.556,13.001 56.004,13.001 C55.451,13.001 55.003,13.449 55.003,14.002 L55.003,19.004 C55.003,19.339 55.17,19.651 55.449,19.837 L58.45,21.838 C58.621,21.951 58.814,22.006 59.004,22.006 C59.328,22.006 59.645,21.849 59.838,21.56 L59.838,21.56 Z" id="clock"></path>
+        </g>
+    </g>
+</svg>
